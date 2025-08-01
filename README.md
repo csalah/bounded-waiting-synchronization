@@ -1,6 +1,6 @@
 # 🔄 Bounded Waiting Synchronization
 
-Goals is to simulate concurrency involving **bounded waiting** and **thread synchronization**. It models a system where students seek help from a teaching assistant (TA) with a limited number of waiting spots (chairs) using threads, semaphores and mutexes in C.
+Goals is to simulate concurrency involving **bounded waiting** and **thread synchronization**. It models a system where students seek help from a teaching assistant (TA) with a limited number of waiting spots (chairs) using threads, semaphores and mutexes in C
 
 ---
 
